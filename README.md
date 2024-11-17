@@ -1,4 +1,4 @@
-# Module 6 - CNN leason
+# Module 6 - CNN lesson
 Leason created for IronHack
 
 
