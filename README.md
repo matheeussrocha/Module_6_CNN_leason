@@ -1,5 +1,5 @@
 # Module 6 - CNN lesson
-Leason created for IronHack
+Lesson created for IronHack
 
 
 ## Lab Questions
